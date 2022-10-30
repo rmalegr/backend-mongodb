@@ -1,0 +1,2 @@
+db_user = rm password = kwNj0GGIMpFz9HSN db_user = rmalegre password =
+yEW236PdxgtAt8iw
